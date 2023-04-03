@@ -1,2 +1,4 @@
-# Atestat informatica
- Atestat informatică, clasa a XII-a B, CNMV, profesor coordonator: Nicolescu Alin
+# Atestat-pentru-liceu
+Proiectul de atestat pentru liceu. Temă dată: Mircea Dinescu
+Clasa a XII-a, 2022-2023, CNMV
+Profesor coordonator: Nicolescu Alin

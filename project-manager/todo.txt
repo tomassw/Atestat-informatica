@@ -1,0 +1,15 @@
+31.41
+
+Poate pot face liniile de pe landing page sa apare random
+
+
+
+
+16 februarie 2023
+- de rezolvat responsivitatea la video
+- de facut despre proiect in burger + github
+
+
+31 martie 2023
+- de adaugat screenshots
+- de curatat codul + scos fisierele inutile pentru memorie
